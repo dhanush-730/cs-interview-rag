@@ -251,10 +251,6 @@ This ensures:
 4. **Retrieved**: Chunks about OOP polymorphism from study materials
 5. **LLM Response**: Generate answer grounded in retrieved context
 
-## 📄 License
-
-MIT License
-
 ## 🙏 Acknowledgments
 
 - **Endee** - High-performance vector database
